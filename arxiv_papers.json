@@ -1,0 +1,200 @@
+[
+  {
+    "title": "TheArtificialScientist:Logicist,Emergentist,andUniversalistApproachestoArtificialGeneralIntelligence",
+    "summary": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
+    "id": "http://arxiv.org/abs/2110.01831v1",
+    "date": "2021-10-05T05:58:23Z"
+  },
+  {
+    "title": "CreativeProblemSolvinginArtificiallyIntelligentAgents:ASurveyandFramework",
+    "summary": "Creative Problem Solving (CPS) is a sub-area within Artificial Intelligence (AI) that focuses on methods for solving off-nominal, or anomalous problems in autonomous systems. Despite many advancements in planning and learning, resolving novel problems or adapting existing knowledge to a new context, especially in cases where the environment may change in unpredictable ways post deployment, remains",
+    "id": "http://arxiv.org/abs/2204.10358v1",
+    "date": "2022-04-21T18:31:44Z"
+  },
+  {
+    "title": "Compression,TheFermiParadoxandArtificialSuper-Intelligence",
+    "summary": "The following briefly discusses possible difficulties in communication with and control of an AGI (artificial general intelligence), building upon an explanation of The Fermi Paradox and preceding work on symbol emergence and artificial general intelligence. The latter suggests that to infer what someone means, an agent constructs a rationale for the observed behaviour of others. Communication the",
+    "id": "http://arxiv.org/abs/2110.01835v1",
+    "date": "2021-10-05T06:17:02Z"
+  },
+  {
+    "title": "AReviewonExplainableArtificialIntelligenceforHealthcare:Why,How,andWhen?",
+    "summary": "Artificial intelligence (AI) models are increasingly finding applications in the field of medicine. Concerns have been raised about the explainability of the decisions that are made by these AI models. In this article, we give a systematic analysis of explainable artificial intelligence (XAI), with a primary focus on models that are currently being used in the field of healthcare. The literature s",
+    "id": "http://arxiv.org/abs/2304.04780v1",
+    "date": "2023-04-10T17:40:21Z"
+  },
+  {
+    "title": "ArtificialIntelligenceFrameworkforSimulatingClinicalDecision-Making:AMarkovDecisionProcessApproach",
+    "summary": "In the modern healthcare system, rapidly expanding costs/complexity, the growing myriad of treatment options, and exploding information streams that often do not effectively reach the front lines hinder the ability to choose optimal treatment decisions over time. The goal in this paper is to develop a general purpose (non-disease-specific) computational/artificial intelligence (AI) framework to ad",
+    "id": "http://arxiv.org/abs/1301.2158v1",
+    "date": "2013-01-10T15:29:59Z"
+  },
+  {
+    "title": "ArtificialCollectiveIntelligenceEngineering:aSurveyofConceptsandPerspectives",
+    "summary": "Collectiveness is an important property of many systems--both natural and artificial. By exploiting a large number of individuals, it is often possible to produce effects that go far beyond the capabilities of the smartest individuals, or even to produce intelligent collective behaviour out of not-so-intelligent individuals. Indeed, collective intelligence, namely the capability of a group to act ",
+    "id": "http://arxiv.org/abs/2304.05147v1",
+    "date": "2023-04-11T11:22:47Z"
+  },
+  {
+    "title": "AphilosophicalandontologicalperspectiveonArtificialGeneralIntelligenceandtheMetaverse",
+    "summary": "This paper leverages various philosophical and ontological frameworks to explore the concept of embodied artificial general intelligence (AGI), its relationship to human consciousness, and the key role of the metaverse in facilitating this relationship. Several theoretical frameworks underpin this exploration, such as embodied cognition, Michael Levin's computational boundary of a \"Self,\" and Dona",
+    "id": "http://arxiv.org/abs/2402.06660v4",
+    "date": "2024-02-05T21:43:11Z"
+  },
+  {
+    "title": "StudyontheHelpfulnessofExplainableArtificialIntelligence",
+    "summary": "Explainable Artificial Intelligence (XAI) is essential for building advanced machine learning-powered applications, especially in critical domains such as medical diagnostics or autonomous driving. Legal, business, and ethical requirements motivate using effective XAI, but the increasing number of different methods makes it challenging to pick the right ones. Further, as explanations are highly co",
+    "id": "http://arxiv.org/abs/2410.11896v1",
+    "date": "2024-10-14T14:03:52Z"
+  },
+  {
+    "title": "WatershedofArtificialIntelligence:HumanIntelligence,MachineIntelligence,andBiologicalIntelligence",
+    "summary": "This article reviews the \"Once learning\" mechanism that was proposed 23 years ago and the subsequent successes of \"One-shot learning\" in image classification and \"You Only Look Once - YOLO\" in objective detection. Analyzing the current development of Artificial Intelligence (AI), the proposal is that AI should be clearly divided into the following categories: Artificial Human Intelligence (AHI), A",
+    "id": "http://arxiv.org/abs/2104.13155v2",
+    "date": "2021-04-27T13:03:25Z"
+  },
+  {
+    "title": "Intelligentbehaviordependsontheecologicalniche:ScalingupAItohuman-likeintelligenceinsocio-culturalenvironments",
+    "summary": "This paper outlines a perspective on the future of AI, discussing directions for machines models of human-like intelligence. We explain how developmental and evolutionary theories of human cognition should further inform artificial intelligence. We emphasize the role of ecological niches in sculpting intelligent behavior, and in particular that human intelligence was fundamentally shaped to adapt ",
+    "id": "http://arxiv.org/abs/2103.06769v1",
+    "date": "2021-03-11T16:24:00Z"
+  },
+  {
+    "title": "LLMsasWritingAssistants:ExploringPerspectivesonSenseofOwnershipandReasoning",
+    "summary": "Sense of ownership in writing confines our investment of thoughts, time, and contribution, leading to attachment to the output. However, using writing assistants introduces a mental dilemma, as some content isn't directly our creation. For instance, we tend to credit Large Language Models (LLMs) more in creative tasks, even though all tasks are equal for them. Additionally, while we may not claim ",
+    "id": "http://arxiv.org/abs/2404.00027v5",
+    "date": "2024-03-20T21:06:42Z"
+  },
+  {
+    "title": "Writing-RL:AdvancingLong-formWritingviaAdaptiveCurriculumReinforcementLearning",
+    "summary": "Recent advances in Large Language Models(LLMs) have enabled strong performance in long-form writing, but current training paradigms remain limited: Supervised Fine-Tuning (SFT) remains constrained by data saturation and performance ceilings, while Reinforcement Learning with Verifiable Reward (RLVR), though successful in verifiable domains like math and code, cannot be directly migrated to open-en",
+    "id": "http://arxiv.org/abs/2506.05760v2",
+    "date": "2025-06-06T05:40:39Z"
+  },
+  {
+    "title": "Chain-of-MetaWriting:LinguisticandTextualAnalysisofHowSmallLanguageModelsWriteYoungStudentsTexts",
+    "summary": "Large Language Models (LLMs) have been used to generate texts in response to different writing tasks: reports, essays, story telling. However, language models do not have a meta-representation of the text writing process, nor inherent communication learning needs, comparable to those of young human students. This paper introduces a fine-grained linguistic and textual analysis of multilingual Small",
+    "id": "http://arxiv.org/abs/2412.14986v1",
+    "date": "2024-12-19T15:58:53Z"
+  },
+  {
+    "title": "VisualStory-Writing:WritingbyManipulatingVisualRepresentationsofStories",
+    "summary": "We define \"visual story-writing\" as using visual representations of story elements to support writing and revising narrative texts. To demonstrate this approach, we developed a text editor that automatically visualizes a graph of entity interactions, movement between locations, and a timeline of story events. Interacting with these visualizations results in suggested text edits: for example, conne",
+    "id": "http://arxiv.org/abs/2410.07486v2",
+    "date": "2024-10-09T23:42:06Z"
+  },
+  {
+    "title": "TheUnlikelyDuel:EvaluatingCreativeWritinginLLMsthroughaUniqueScenario",
+    "summary": "This is a summary of the paper \"A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing\", which was published in Findings of EMNLP 2023. We evaluate a range of recent state-of-the-art, instruction-tuned large language models (LLMs) on an English creative writing task, and compare them to human writers. For this purpose, we use a specifically-tailored prompt (based on an epi",
+    "id": "http://arxiv.org/abs/2406.15891v1",
+    "date": "2024-06-22T17:01:59Z"
+  },
+  {
+    "title": "LargeLanguageModelsPenetrationinScholarlyWritingandPeerReview",
+    "summary": "While the widespread use of Large Language Models (LLMs) brings convenience, it also raises concerns about the credibility of academic research and scholarly processes. To better understand these dynamics, we evaluate the penetration of LLMs across academic workflows from multiple perspectives and dimensions, providing compelling evidence of their growing influence. We propose a framework with two",
+    "id": "http://arxiv.org/abs/2502.11193v1",
+    "date": "2025-02-16T16:37:34Z"
+  },
+  {
+    "title": "ApproachIntelligentWritingAssistantsUsabilitywithSevenStagesofAction",
+    "summary": "Despite the potential of Large Language Models (LLMs) as writing assistants, they are plagued by issues like coherence and fluency of the model output, trustworthiness, ownership of the generated content, and predictability of model performance, thereby limiting their usability. In this position paper, we propose to adopt Norman's seven stages of action as a framework to approach the interaction d",
+    "id": "http://arxiv.org/abs/2304.02822v1",
+    "date": "2023-04-06T02:11:55Z"
+  },
+  {
+    "title": "LLM-Ref:EnhancingReferenceHandlinginTechnicalWritingwithLargeLanguageModels",
+    "summary": "Large Language Models (LLMs) excel in data synthesis but can be inaccurate in domain-specific tasks, which retrieval-augmented generation (RAG) systems address by leveraging user-provided data. However, RAGs require optimization in both retrieval and generation stages, which can affect output quality. In this paper, we present LLM-Ref, a writing assistant tool that aids researchers in writing arti",
+    "id": "http://arxiv.org/abs/2411.00294v2",
+    "date": "2024-11-01T01:11:58Z"
+  },
+  {
+    "title": "VoiceInteractionWithConversationalAICouldFacilitateThoughtfulReflectionandSubstantiveRevisioninWriting",
+    "summary": "Writing well requires not only expressing ideas but also refining them through revision, a process facilitated by reflection. Prior research suggests that feedback delivered through dialogues, such as those in writing center tutoring sessions, can help writers reflect more thoughtfully on their work compared to static feedback. Recent advancements in multi-modal large language models (LLMs) now of",
+    "id": "http://arxiv.org/abs/2504.08687v1",
+    "date": "2025-04-11T16:54:12Z"
+  },
+  {
+    "title": "BeyondSummarization:DesigningAISupportforReal-WorldExpositoryWritingTasks",
+    "summary": "Large language models have introduced exciting new opportunities and challenges in designing and developing new AI-assisted writing support tools. Recent work has shown that leveraging this new technology can transform writing in many scenarios such as ideation during creative writing, editing support, and summarization. However, AI-supported expository writing--including real-world tasks like sch",
+    "id": "http://arxiv.org/abs/2304.02623v1",
+    "date": "2023-04-05T17:47:11Z"
+  },
+  {
+    "title": "ChangingDataSourcesintheAgeofMachineLearningforOfficialStatistics",
+    "summary": "Data science has become increasingly essential for the production of official statistics, as it enables the automated collection, processing, and analysis of large amounts of data. With such data science practices in place, it enables more timely, more insightful and more flexible reporting. However, the quality and integrity of data-science-driven statistics rely on the accuracy and reliability o",
+    "id": "http://arxiv.org/abs/2306.04338v1",
+    "date": "2023-06-07T11:08:12Z"
+  },
+  {
+    "title": "Activelearningfordatastreams:asurvey",
+    "summary": "Online active learning is a paradigm in machine learning that aims to select the most informative data points to label from a data stream. The problem of minimizing the cost associated with collecting labeled observations has gained a lot of attention in recent years, particularly in real-world applications where data is only available in an unlabeled form. Annotating each observation can be time-",
+    "id": "http://arxiv.org/abs/2302.08893v4",
+    "date": "2023-02-17T14:24:13Z"
+  },
+  {
+    "title": "EmotioninReinforcementLearningAgentsandRobots:ASurvey",
+    "summary": "This article provides the first survey of computational models of emotion in reinforcement learning (RL) agents. The survey focuses on agent/robot emotions, and mostly ignores human user emotions. Emotions are recognized as functional in decision-making by influencing motivation and action selection. Therefore, computational emotion models are usually grounded in the agent's decision making archit",
+    "id": "http://arxiv.org/abs/1705.05172v1",
+    "date": "2017-05-15T11:49:56Z"
+  },
+  {
+    "title": "LearningCurvesforDecisionMakinginSupervisedMachineLearning:ASurvey",
+    "summary": "Learning curves are a concept from social sciences that has been adopted in the context of machine learning to assess the performance of a learning algorithm with respect to a certain resource, e.g., the number of training examples or the number of training iterations. Learning curves have important applications in several machine learning contexts, most notably in data acquisition, early stopping",
+    "id": "http://arxiv.org/abs/2201.12150v2",
+    "date": "2022-01-28T14:34:32Z"
+  },
+  {
+    "title": "Explanatorymachinelearningforsequentialhumanteaching",
+    "summary": "The topic of comprehensibility of machine-learned theories has recently drawn increasing attention. Inductive Logic Programming (ILP) uses logic programming to derive logic theories from small data based on abduction and induction techniques. Learned theories are represented in the form of rules as declarative descriptions of obtained knowledge. In earlier work, the authors provided the first evid",
+    "id": "http://arxiv.org/abs/2205.10250v2",
+    "date": "2022-05-20T15:23:46Z"
+  },
+  {
+    "title": "Physics-InspiredInterpretabilityOfMachineLearningModels",
+    "summary": "The ability to explain decisions made by machine learning models remains one of the most significant hurdles towards widespread adoption of AI in highly sensitive areas such as medicine, cybersecurity or autonomous driving. Great interest exists in understanding which features of the input data prompt model decision making. In this contribution, we propose a novel approach to identify relevant fea",
+    "id": "http://arxiv.org/abs/2304.02381v2",
+    "date": "2023-04-05T11:35:17Z"
+  },
+  {
+    "title": "FourierLearningMachines:NonharmonicFourier-BasedNeuralNetworksforScientificMachineLearning",
+    "summary": "We introduce the Fourier Learning Machine (FLM), a neural network (NN) architecture designed to represent a multidimensional nonharmonic Fourier series. The FLM uses a simple feedforward structure with cosine activation functions to learn the frequencies, amplitudes, and phase shifts of the series as trainable parameters. This design allows the model to create a problem-specific spectral basis ada",
+    "id": "http://arxiv.org/abs/2509.08759v3",
+    "date": "2025-09-10T16:49:20Z"
+  },
+  {
+    "title": "MerLin:ADiscoveryEngineforPhotonicandHybridQuantumMachineLearning",
+    "summary": "Identifying where quantum models may offer practical benefits in near term quantum machine learning (QML) requires moving beyond isolated algorithmic proposals toward systematic and empirical exploration across models, datasets, and hardware constraints. We introduce MerLin, an open-source framework designed as a discovery engine for photonic and hybrid quantum machine learning. MerLin integrates ",
+    "id": "http://arxiv.org/abs/2602.11092v2",
+    "date": "2026-02-11T18:00:01Z"
+  },
+  {
+    "title": "ABenchmarkStudyofMachineLearningModelsforOnlineFakeNewsDetection",
+    "summary": "The proliferation of fake news and its propagation on social media has become a major concern due to its ability to create devastating impacts. Different machine learning approaches have been suggested to detect fake news. However, most of those focused on a specific type of news (such as political) which leads us to the question of dataset-bias of the models used. In this research, we conducted a",
+    "id": "http://arxiv.org/abs/1905.04749v2",
+    "date": "2019-05-12T17:15:11Z"
+  },
+  {
+    "title": "Privacy-preservingmachinelearningforhealthcare:openchallengesandfutureperspectives",
+    "summary": "Machine Learning (ML) has recently shown tremendous success in modeling various healthcare prediction tasks, ranging from disease diagnosis and prognosis to patient treatment. Due to the sensitive nature of medical data, privacy must be considered along the entire ML pipeline, from model training to inference. In this paper, we conduct a review of recent literature concerning Privacy-Preserving Ma",
+    "id": "http://arxiv.org/abs/2303.15563v1",
+    "date": "2023-03-27T19:20:51Z"
+  },
+  {
+    "title": "GamesforArtificialIntelligenceResearch:AReviewandPerspectives",
+    "summary": "Games have been the perfect test-beds for artificial intelligence research for the characteristics that widely exist in real-world scenarios. Learning and optimisation, decision making in dynamic and uncertain environments, game theory, planning and scheduling, design and education are common research areas shared between games and real-world problems. Numerous open-source games or game-based envi",
+    "id": "http://arxiv.org/abs/2304.13269v4",
+    "date": "2023-04-26T03:42:31Z"
+  },
+  {
+    "title": "ESR:EthicsandSocietyReviewofArtificialIntelligenceResearch",
+    "summary": "Artificial intelligence (AI) research is routinely criticized for its real and potential impacts on society, and we lack adequate institutional responses to this criticism and to the responsibility that it reflects. AI research often falls outside the purview of existing feedback mechanisms such as the Institutional Review Board (IRB), which are designed to evaluate harms to human subjects rather ",
+    "id": "http://arxiv.org/abs/2106.11521v2",
+    "date": "2021-06-22T03:23:42Z"
+  },
+  {
+    "title": "Human-in-the-loopArtificialIntelligence",
+    "summary": "Little by little, newspapers are revealing the bright future that Artificial Intelligence (AI) is building. Intelligent machines will help everywhere. However, this bright future has a dark side: a dramatic job market contraction before its unpredictable transformation. Hence, in a near future, large numbers of job seekers will need financial support while catching up with these novel unpredictabl",
+    "id": "http://arxiv.org/abs/1710.08191v1",
+    "date": "2017-10-23T10:37:50Z"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Large Language Models Penetration in Scholarly Writing and Peer Review",
+    "summary": "While the widespread use of Large Language Models (LLMs) brings convenience, it also raises concerns about the credibility of academic research and scholarly processes. To better understand these dynamics, we evaluate the penetration of LLMs across academic workflows from multiple perspectives and dimensions, providing compelling evidence of their growing influence. We propose a framework with two components: \\texttt{ScholarLens}, a curated dataset of human- and LLM-generated content across scho",
+    "id": "http://arxiv.org/abs/2502.11193v1",
+    "date": "2025-02-16T16:37:34Z"
+  },
+  {
+    "title": "PB-LLM: Partially Binarized Large Language Models",
+    "summary": "This paper explores network binarization, a radical form of quantization, compressing model weights to a single bit, specifically for Large Language Models (LLMs) compression. Due to previous binarization methods collapsing LLMs, we propose a novel approach, Partially-Binarized LLM (PB-LLM), which can achieve extreme low-bit quantization while maintaining the linguistic reasoning capacity of quantized LLMs. Specifically, our exploration first uncovers the ineffectiveness of naive applications of",
+    "id": "http://arxiv.org/abs/2310.00034v2",
+    "date": "2023-09-29T14:35:27Z"
+  },
+  {
+    "title": "Open Sesame! Universal Black Box Jailbreaking of Large Language Models",
+    "summary": "Large language models (LLMs), designed to provide helpful and safe responses, often rely on alignment techniques to align with user intent and social guidelines. Unfortunately, this alignment can be exploited by malicious actors seeking to manipulate an LLM's outputs for unintended purposes. In this paper we introduce a novel approach that employs a genetic algorithm (GA) to manipulate LLMs when model architecture and parameters are inaccessible. The GA attack works by optimizing a universal adv",
+    "id": "http://arxiv.org/abs/2309.01446v4",
+    "date": "2023-09-04T08:54:20Z"
+  },
+  {
+    "title": "Learning From Failure: Integrating Negative Examples when Fine-tuning Large Language Models as Agents",
+    "summary": "Large language models (LLMs) have achieved success in acting as agents, which interact with environments through tools such as search engines. However, LLMs are optimized for language generation instead of tool use during training or alignment, limiting their effectiveness as agents. To resolve this problem, previous work has first collected interaction trajectories between LLMs and environments, using only trajectories that successfully finished the task to fine-tune smaller models, making fine",
+    "id": "http://arxiv.org/abs/2402.11651v2",
+    "date": "2024-02-18T17:10:07Z"
+  },
+  {
+    "title": "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble",
+    "summary": "LLM Ensemble -- which involves the comprehensive use of multiple large language models (LLMs), each aimed at handling user queries during downstream inference, to benefit from their individual strengths -- has gained substantial attention recently. The widespread availability of LLMs, coupled with their varying strengths and out-of-the-box usability, has profoundly advanced the field of LLM Ensemble. This paper presents the first systematic review of recent developments in LLM Ensemble. First, w",
+    "id": "http://arxiv.org/abs/2502.18036v6",
+    "date": "2025-02-25T09:48:53Z"
+  },
+  {
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "summary": "In recent years, training methods centered on Reinforcement Learning (RL) have markedly enhanced the reasoning and alignment performance of Large Language Models (LLMs), particularly in understanding human intents, following user instructions, and bolstering inferential strength. Although existing surveys offer overviews of RL augmented LLMs, their scope is often limited, failing to provide a comprehensive summary of how RL operates across the full lifecycle of LLMs. We systematically review the",
+    "id": "http://arxiv.org/abs/2509.16679v1",
+    "date": "2025-09-20T13:11:28Z"
+  },
+  {
+    "title": "LLM Post-Training: A Deep Dive into Reasoning Large Language Models",
+    "summary": "Large Language Models (LLMs) have transformed the natural language processing landscape and brought to life diverse applications. Pretraining on vast web-scale data has laid the foundation for these models, yet the research community is now increasingly shifting focus toward post-training techniques to achieve further breakthroughs. While pretraining provides a broad linguistic foundation, post-training methods enable LLMs to refine their knowledge, improve reasoning, enhance factual accuracy, a",
+    "id": "http://arxiv.org/abs/2502.21321v2",
+    "date": "2025-02-28T18:59:54Z"
+  },
+  {
+    "title": "ARB-LLM: Alternating Refined Binarizations for Large Language Models",
+    "summary": "Large Language Models (LLMs) have greatly pushed forward advancements in natural language processing, yet their high memory and computational demands hinder practical deployment. Binarization, as an effective compression technique, can shrink model weights to just 1 bit, significantly reducing the high demands on computation and memory. However, current binarization methods struggle to narrow the distribution gap between binarized and full-precision weights, while also overlooking the column dev",
+    "id": "http://arxiv.org/abs/2410.03129v3",
+    "date": "2024-10-04T03:50:10Z"
+  },
+  {
+    "title": "AI, Humans, and Data Science: Optimizing Roles Across Workflows and the Workforce",
+    "summary": "AI is transforming research. It is being leveraged to construct surveys, synthesize data, conduct analysis, and write summaries of the results. While the promise is to create efficiencies and increase quality, the reality is not always as clear cut. Leveraging our framework of Truth, Beauty, and Justice (TBJ) which we use to evaluate AI, machine learning and computational models for effective and ethical use (Taber and Timpone 1997; Timpone and Yang 2024), we consider the potential and limitatio",
+    "id": "http://arxiv.org/abs/2507.11597v1",
+    "date": "2025-07-15T17:59:06Z"
+  },
+  {
+    "title": "From Teacher to Colleague: How Coding Experience Shapes Developer Perceptions of AI Tools",
+    "summary": "AI-assisted development tools promise productivity gains and improved code quality, yet their adoption among developers remains inconsistent. Prior research suggests that professional expertise influences technology adoption, but its role in shaping developers' perceptions of AI tools is unclear. We analyze survey data from 3380 developers to examine how coding experience relates to AI awareness, adoption, and the roles developers assign to AI in their workflow. Our findings reveal that coding e",
+    "id": "http://arxiv.org/abs/2504.13903v1",
+    "date": "2025-04-08T08:58:06Z"
+  },
+  {
+    "title": "A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models",
+    "summary": "With the advancement of web techniques, they have significantly revolutionized various aspects of people's lives. Despite the importance of the web, many tasks performed on it are repetitive and time-consuming, negatively impacting overall quality of life. To efficiently handle these tedious daily tasks, one of the most promising approaches is to advance autonomous agents based on Artificial Intelligence (AI) techniques, referred to as AI Agents, as they can operate continuously without fatigue ",
+    "id": "http://arxiv.org/abs/2503.23350v4",
+    "date": "2025-03-30T08:15:44Z"
+  },
+  {
+    "title": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models",
+    "summary": "As one of the most advanced techniques in AI, Retrieval-Augmented Generation (RAG) can offer reliable and up-to-date external knowledge, providing huge convenience for numerous tasks. Particularly in the era of AI-Generated Content (AIGC), the powerful capacity of retrieval in providing additional knowledge enables RAG to assist existing generative AI in producing high-quality outputs. Recently, Large Language Models (LLMs) have demonstrated revolutionary abilities in language understanding and ",
+    "id": "http://arxiv.org/abs/2405.06211v3",
+    "date": "2024-05-10T02:48:45Z"
+  },
+  {
+    "title": "Stop DDoS Attacking the Research Community with AI-Generated Survey Papers",
+    "summary": "Survey papers are foundational to the scholarly progress of research communities, offering structured overviews that guide both novices and experts across disciplines. However, the recent surge of AI-generated surveys, especially enabled by large language models (LLMs), has transformed this traditionally labor-intensive genre into a low-effort, high-volume output. While such automation lowers entry barriers, it also introduces a critical threat: the phenomenon we term the \"survey paper DDoS atta",
+    "id": "http://arxiv.org/abs/2510.09686v1",
+    "date": "2025-10-09T05:55:13Z"
+  },
+  {
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "summary": "In recent years, training methods centered on Reinforcement Learning (RL) have markedly enhanced the reasoning and alignment performance of Large Language Models (LLMs), particularly in understanding human intents, following user instructions, and bolstering inferential strength. Although existing surveys offer overviews of RL augmented LLMs, their scope is often limited, failing to provide a comprehensive summary of how RL operates across the full lifecycle of LLMs. We systematically review the",
+    "id": "http://arxiv.org/abs/2509.16679v1",
+    "date": "2025-09-20T13:11:28Z"
+  },
+  {
+    "title": "The Design Space of Recent AI-assisted Research Tools for Ideation, Sensemaking, and Scientific Creativity",
+    "summary": "Generative AI (GenAI) tools are radically expanding the scope and capability of automation in knowledge work such as academic research. While promising for augmenting cognition and streamlining processes, AI-assisted research tools may also increase automation bias and hinder critical thinking. To examine recent developments, we surveyed publications from leading HCI venues over the past three years, closely analyzing thirteen tools to better understand the novel capabilities of these AI-assiste",
+    "id": "http://arxiv.org/abs/2502.16291v2",
+    "date": "2025-02-22T16:42:11Z"
+  },
+  {
+    "title": "Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies",
+    "summary": "As AI systems demonstrate increasingly strong predictive performance, their adoption has grown in numerous domains. However, in high-stakes domains such as criminal justice and healthcare, full automation is often not desirable due to safety, ethical, and legal concerns, yet fully manual approaches can be inaccurate and time consuming. As a result, there is growing interest in the research community to augment human decision making with AI assistance. Besides developing AI technologies for this ",
+    "id": "http://arxiv.org/abs/2112.11471v1",
+    "date": "2021-12-21T19:00:02Z"
+  }
+]
