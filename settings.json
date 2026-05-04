@@ -1,0 +1,36 @@
+{
+  "env": {
+    "PY": "D:/Python/Python314/python",
+    "PYTHON": "D:/Python/Python314/python"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Read",
+      "Write",
+      "Edit"
+    ]
+  },
+  "agents": {
+    "topic-librarian": {
+      "tools": ["Read", "Write", "Edit", "Bash"],
+      "default": "acceptEdits"
+    },
+    "outline-architect": {
+      "tools": ["Read", "Write", "Edit"],
+      "default": "acceptEdits"
+    },
+    "section-writer": {
+      "tools": ["Read", "Write", "Edit"],
+      "default": "acceptEdits"
+    },
+    "format-editor": {
+      "tools": ["Read", "Write", "Edit"],
+      "default": "acceptEdits"
+    },
+    "final-auditor": {
+      "tools": ["Read", "Write", "Edit"],
+      "default": "acceptEdits"
+    }
+  }
+}
